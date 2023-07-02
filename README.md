@@ -1,5 +1,3 @@
-Certainly! Here's an example `README.md` file for your Spring Boot project:
-
 # Short URL Generator API
 
 The Short URL Generator API is a Spring Boot application that allows users to generate short URLs and automatically redirects them to the original URLs.
