@@ -4,7 +4,7 @@ The Short URL Generator API is a Spring Boot application that allows users to ge
 
 ## Requirements
 
-- Java Development Kit (JDK) 11 or higher
+- Java 11 
 - Maven 3.6.3 or higher
 
 ## Technologies Used
