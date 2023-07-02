@@ -49,6 +49,10 @@ The application will start running on `http://localhost:8182`.
 
 The API endpoints are auto-documentable using Swagger. You can access the API documentation by visiting `http://localhost:8182/doc/swagger-ui/index.html` in your web browser.
 
+## API Documentation
+
+Data will be stored in h2 database. You can access H2 Panel by visiting `http://localhost:8182/su/h2-panel` in your web browser. You can find user and password in application.properties files.
+
 ## Usage
 
 ### Generate Short URL
